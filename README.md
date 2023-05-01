@@ -4,6 +4,6 @@
 
 
 
-### if you will install my project please don't forget to take your own api key from tmdb and write in the terminal (npm i) or (yarn install)
+### if you will install my project please don't forget to take your own api key from tmdb and write in the terminal (npm i) or (yarn install) to install all dependencies
 
 #### Good luck!
